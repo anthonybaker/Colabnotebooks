@@ -1,2 +1,2 @@
-# colabnotebooks
-Repo for Colab Notebooks mostly related to Generative AI projects
+# Point Cloud Script Examples
+These scripts leverage OpenAI point-e code to create point cloud meshes out of text or images. 
